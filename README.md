@@ -11,8 +11,6 @@
 <img src="demo/SiamRPN_diving.gif" width="400" alt="girl2"/> <img src="demo/FAML_RT_diving.gif" width="400" alt="girl2"/>
 
 ## Instructions
-To be continued!!!
-## Raw results
-To be continued!!!
+Details can be referred to [FAML-RT]()
+
 ## Acknowledgement
-To be continued!!!
