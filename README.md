@@ -11,7 +11,7 @@
 <img src="demo/SiamRPN_diving.gif" width="400" alt="girl2"/> <img src="demo/FAML_RT_diving.gif" width="400" alt="girl2"/>
 
 ## Instructions
-Details can be referred to [FAML-RT]()
+Details can be referred to [FAML-RT](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002797)
 
 ## Citation
 If you find PTTR useful, please consider citing:
