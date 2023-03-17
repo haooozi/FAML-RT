@@ -13,4 +13,15 @@
 ## Instructions
 Details can be referred to [FAML-RT]()
 
-## Acknowledgement
+## Citation
+If you find PTTR useful, please consider citing:
+
+```bibtex
+@article{nie2023faml,
+  title={FAML-RT: Feature Alignment-based Multi-level Similarity Metric Learning Network for a Two-stage Robust Tracker},
+  author={Nie, Jiahao and Dong, Zhekang and He, Zhiwei and Wu, Han and Gao, Mingyu},
+  journal={Information Sciences},
+  year={2023},
+  publisher={Elsevier}
+}
+```
