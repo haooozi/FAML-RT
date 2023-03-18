@@ -2,7 +2,7 @@
 
 ## Overall architecture(Zoom-in)
 
-<img src="fig/FAML-RT.jpg" width="1200" alt="ovreall"/>
+<img src="fig/FAML-RT.png" width="1200" alt="ovreall"/>
 
 ## Demo
 
