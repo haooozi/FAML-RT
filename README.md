@@ -113,7 +113,7 @@ Here, we list the most important part of our dependencies
 
 * **Note:** Before running the code, you will need to edit the `.py` file by setting the `path` argument as the correct root of the dataset.
 
-```bash
+```
 # single-gpu training
 python train.py --config configs/voxel/kitti/car.py
 # multi-gpu training
@@ -124,7 +124,7 @@ python train.py --config configs/voxel/kitti/car.py
 ### Testing
 
 To test a trained model, specify the checkpoint location with `--resume_from` argument and set the `--phase` argument as `test`.
-```bash
+```
 # single-gpu testing
 python test.py --config configs/voxel/kitti/car.py --load_from pretrained/voxel/kitti/car_73.45_86.58.pth
 # multi-gpu testing
